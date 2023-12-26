@@ -16,6 +16,8 @@ and preview
 
 ---
 ### Getting start!
+type command in terminal
+
 ```npm install``` to install all package
 
-```npm run dev``` to run in localhost
+```npm run dev``` to run on localhost
