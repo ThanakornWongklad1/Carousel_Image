@@ -1,29 +1,15 @@
 # Carousel_Image
+### This project is about Carousel . It's a autoplay slide in website.
 
-This template should help get you started developing with Vue 3 in Vite.
+#### This page is created by me.
+![image](https://github.com/ThanakornWongklad1/Carousel_Image/assets/102203038/e0fbe766-50c5-486c-8630-b039cbb063c7)
 
-## Recommended IDE Setup
+#### This page I used SwiperJs Library
+link to Swiperjs 
+- https://swiperjs.com/
+- https://swiperjs.com/demos
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+and preview
+![image](https://github.com/ThanakornWongklad1/Carousel_Image/assets/102203038/60674436-9f7d-48ff-b499-da75a9ef3563)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
