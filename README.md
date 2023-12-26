@@ -1,7 +1,7 @@
 # Carousel_Image
 ### This project is about Carousel . It's a autoplay slide in website.
 
-#### This page is created by me.
+#### This page was created by me.
 ![image](https://github.com/ThanakornWongklad1/Carousel_Image/assets/102203038/e0fbe766-50c5-486c-8630-b039cbb063c7)
 
 #### This page I used SwiperJs Library
